@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 9997f48f3b58b2f42b03f34df0688743
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Case:HousingGasket:imagePlane1
+    100002: Case:HousingGasket:pCylinder10
+    100004: Case:imagePlane1
+    100006: Case:imagePlane2
+    100008: //RootNode
+    100010: HousingGasket:imagePlane1
+    100012: imagePlane1
+    100014: pCylinder7
+    100016: pPipe1
+    100018: pPipe4
+    100020: Sleeve_22:bottom
+    100022: Sleeve_22:pCube10
+    100024: Sleeve_22:pCube11
+    100026: Sleeve_22:pCube12
+    100028: Sleeve_22:pCube13
+    100030: Sleeve_22:pCube14
+    100032: Sleeve_22:pCube15
+    100034: Sleeve_22:pCube16
+    100036: Sleeve_22:pCube17
+    100038: Sleeve_22:pCube18
+    100040: Sleeve_22:pCube19
+    100042: Sleeve_22:pCube20
+    100044: Sleeve_22:pCube21
+    100046: Sleeve_22:pCube22
+    100048: Sleeve_22:pCube23
+    100050: Sleeve_22:pCube24
+    100052: Sleeve_22:pCube25
+    100054: Sleeve_22:pCube26
+    100056: Sleeve_22:pCube27
+    100058: Sleeve_22:pCube28
+    100060: Sleeve_22:pCube29
+    100062: Sleeve_22:pCube30
+    100064: Sleeve_22:pCube31
+    100066: Sleeve_22:pCube32
+    100068: Sleeve_22:pCube33
+    100070: Sleeve_22:pCube34
+    100072: Sleeve_22:pCube35
+    100074: Sleeve_22:pCube36
+    100076: Sleeve_22:pCube37
+    100078: Sleeve_22:pCube38
+    100080: Sleeve_22:pCube4
+    100082: Sleeve_22:pCube5
+    100084: Sleeve_22:pCube6
+    100086: Sleeve_22:pCube7
+    100088: Sleeve_22:pCube8
+    100090: Sleeve_22:pCube9
+    400000: Case:HousingGasket:imagePlane1
+    400002: Case:HousingGasket:pCylinder10
+    400004: Case:imagePlane1
+    400006: Case:imagePlane2
+    400008: //RootNode
+    400010: HousingGasket:imagePlane1
+    400012: imagePlane1
+    400014: pCylinder7
+    400016: pPipe1
+    400018: pPipe4
+    400020: Sleeve_22:bottom
+    400022: Sleeve_22:pCube10
+    400024: Sleeve_22:pCube11
+    400026: Sleeve_22:pCube12
+    400028: Sleeve_22:pCube13
+    400030: Sleeve_22:pCube14
+    400032: Sleeve_22:pCube15
+    400034: Sleeve_22:pCube16
+    400036: Sleeve_22:pCube17
+    400038: Sleeve_22:pCube18
+    400040: Sleeve_22:pCube19
+    400042: Sleeve_22:pCube20
+    400044: Sleeve_22:pCube21
+    400046: Sleeve_22:pCube22
+    400048: Sleeve_22:pCube23
+    400050: Sleeve_22:pCube24
+    400052: Sleeve_22:pCube25
+    400054: Sleeve_22:pCube26
+    400056: Sleeve_22:pCube27
+    400058: Sleeve_22:pCube28
+    400060: Sleeve_22:pCube29
+    400062: Sleeve_22:pCube30
+    400064: Sleeve_22:pCube31
+    400066: Sleeve_22:pCube32
+    400068: Sleeve_22:pCube33
+    400070: Sleeve_22:pCube34
+    400072: Sleeve_22:pCube35
+    400074: Sleeve_22:pCube36
+    400076: Sleeve_22:pCube37
+    400078: Sleeve_22:pCube38
+    400080: Sleeve_22:pCube4
+    400082: Sleeve_22:pCube5
+    400084: Sleeve_22:pCube6
+    400086: Sleeve_22:pCube7
+    400088: Sleeve_22:pCube8
+    400090: Sleeve_22:pCube9
+    2000000: Sleeve_22:bottom
+    2100000: Default_Material
+    2100002: lambert1
+    2300000: Case:HousingGasket:pCylinder10
+    2300002: pCylinder7
+    3300000: Case:HousingGasket:pCylinder10
+    3300002: pCylinder7
+    4300000: Case:HousingGasket:pCylinder10
+    4300002: pCylinder7
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.025
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

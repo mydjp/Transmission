@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Final_Game_V4_Test_03.unity
+  isLoaded: 1
+  isActive: 1

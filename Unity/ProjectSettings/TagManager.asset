@@ -19,29 +19,26 @@ TagManager:
   - FxTemporaire
   - projectile
   - TeleportIgnore
-  - GearClutch
-  - Ring
   - FirstGear
-  - SecondGear
   - Shaft_Output
-  - CounterShaft
-  - Drive_Pinion
-  - Sleeve_1
-  - Sleeve_2
-  - FullShaft
-  - Extension
-  - Gasket
-  - Case
   - RingFBX
-  - RingOBJ
-  - RingMA
-  - GearClutchOBJ
   - GearClutchFBX
-  - BearingOne
-  - BearingTwo
-  - RingDouble
-  - Retainer
-  - a
+  - RearShoe
+  - SecondGear
+  - RingMA
+  - Sleeve_2
+  - RingOBJ
+  - Front_Mount_Spring
+  - S_A_Actuator_Link
+  - Front_Shoe_Ret_Spring
+  - Nail
+  - Nail_Two
+  - Star_Wheel_Spring
+  - Star_Wheel_Cap
+  - Star_Wheel_Cover
+  - Star_Wheel_Screw
+  - Washer
+  - Guide_Plate
   layers:
   - Default
   - TransparentFX

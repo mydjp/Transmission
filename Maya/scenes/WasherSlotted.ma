@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: WasherSlotted.ma
-//Last modified: Wed, Mar 04, 2020 12:41:52 PM
+//Last modified: Wed, Mar 04, 2020 12:50:00 PM
 //Codeset: 1252
 requires maya "2018";
 requires "stereoCamera" "10.0";
@@ -14,13 +14,13 @@ fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "8C59A863-4E32-C63C-120B-BCAF88A76179";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 1.4054591094859559 0.876852343295215 -0.39090659678114037 ;
-	setAttr ".r" -type "double3" -28.538352730514688 1192.5999999996866 0 ;
+	setAttr ".t" -type "double3" 3.0032465417579024 2.6492618084715778 -1.2898733391650437 ;
+	setAttr ".r" -type "double3" -37.538352730514383 1192.5999999996866 0 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "9397EF43-4061-3994-3606-048874E5B088";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 1.8403101324395725;
+	setAttr ".coi" 4.3398637553445303;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";

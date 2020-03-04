@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: Washer.ma
-//Last modified: Wed, Mar 04, 2020 12:41:30 PM
+//Last modified: Wed, Mar 04, 2020 12:50:16 PM
 //Codeset: 1252
 requires maya "2018";
 requires "stereoCamera" "10.0";
@@ -14,8 +14,8 @@ fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "8C59A863-4E32-C63C-120B-BCAF88A76179";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 1.52080109286614 2.806767101989454 -1.5593200002102821 ;
-	setAttr ".r" -type "double3" -51.938352730551145 854.19999999979996 0 ;
+	setAttr ".t" -type "double3" 2.9637753395911646 1.7852625207520616 -0.61224061341069136 ;
+	setAttr ".r" -type "double3" -29.738352730551 820.59999999979846 -2.5444437451708134e-14 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "9397EF43-4061-3994-3606-048874E5B088";
 	setAttr -k off ".v" no;
@@ -917,19 +917,19 @@ createNode mesh -n "WasherShape" -p "Washer";
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode lightLinker -s -n "lightLinker1";
-	rename -uid "FF65D81A-47F1-FF23-B2DB-78BBB22D06AE";
+	rename -uid "3556E137-40A8-8ADC-B929-67B6E1968874";
 	setAttr -s 2 ".lnk";
 	setAttr -s 2 ".slnk";
 createNode shapeEditorManager -n "shapeEditorManager";
-	rename -uid "3776295B-48D8-A979-4FFB-789C0CE50805";
+	rename -uid "365E4A53-44C9-22CF-B438-3BBB6284CBB5";
 createNode poseInterpolatorManager -n "poseInterpolatorManager";
-	rename -uid "169E5F2D-494A-6E69-AE86-3990F33F7E83";
+	rename -uid "E209C750-4DBC-0C7E-ACCA-8A9884E14E8A";
 createNode displayLayerManager -n "layerManager";
-	rename -uid "FBB1040F-4339-D2C8-A210-D0A66DB256AD";
+	rename -uid "4CA9B9AF-4E01-A81F-7905-90B4200923C5";
 createNode displayLayer -n "defaultLayer";
 	rename -uid "350593A4-46C4-926A-F1E7-E49844C27F51";
 createNode renderLayerManager -n "renderLayerManager";
-	rename -uid "B223EB20-4601-4ED8-4C21-0F90C438FB0E";
+	rename -uid "3A901D21-4383-CFE7-F085-9E905BCFB746";
 createNode renderLayer -n "defaultRenderLayer";
 	rename -uid "A6AB2D01-489F-9033-D6EF-62B68F271C1E";
 	setAttr ".g" yes;

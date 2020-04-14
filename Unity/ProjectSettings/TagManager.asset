@@ -39,6 +39,11 @@ TagManager:
   - Star_Wheel_Screw
   - Washer
   - Guide_Plate
+  - Primary_Shoe
+  - Secondary_Shoe
+  - S_A_Arm
+  - Rear_Mount_Spring
+  - Brake_Hub
   layers:
   - Default
   - TransparentFX
